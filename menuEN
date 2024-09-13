@@ -671,6 +671,23 @@
                   </div>
                 </div>
   
+                <div class="col-lg-6 menu-item isotope-item filter-pizzas">
+                  <div class="menu-content">
+                    <a href="#">Fried Potatoes*</a><span>€ 4.00</span>
+                  </div>
+                </div>
+  
+                <div class="col-lg-6 menu-item isotope-item filter-pizzas">
+                  <div class="menu-content">
+                    <a href="#">Sweet Potato*</a><span>€ 5.00</span>
+                  </div>
+                </div>
+  
+                <div class="col-lg-6 menu-item isotope-item filter-pizzas">
+                  <div class="menu-content">
+                    <a href="#">Kamut Flour Dough</a><span>€ 2.00</span>
+                  </div>
+                </div>
               </div>
             </div>
   
@@ -704,34 +721,16 @@
                     2-Octopus, arugula, grilled eggplant, cave-aged Caciocavallo, turnip greens cream
                   </div>
                 </div>
-  
+                                      
                 <div class="col-lg-6 menu-item isotope-item filter-pizzas">
                   <div class="menu-content">
-                    <a href="#">French Fries*</a><span>€ 4.00</span>
+                    <a href="#"></a><span></span>
                   </div>
                 </div>
-  
+                   
                 <div class="col-lg-6 menu-item isotope-item filter-pizzas">
                   <div class="menu-content">
-                    <a href="#">Sweet Potatoes*</a><span>€ 4.00</span>
-                  </div>
-                </div>
-  
-                <div class="col-lg-6 menu-item isotope-item filter-pizzas">
-                  <div class="menu-content">
-                    <a href="#">Home Delivery</a><span>€ 2.00</span>
-                  </div>
-                </div>
-  
-                <div class="col-lg-6 menu-item isotope-item filter-pizzas">
-                  <div class="menu-content">
-                    <a href="#">Kamut Flour Dough</a><span>€ 2.00</span>
-                  </div>
-                </div>
-  
-                <div class="col-lg-6 menu-item isotope-item filter-pizzas">
-                  <div class="menu-content">
-                    <a href="#">Table Service</a><span>€ 2.00</span>
+                    <a href="#"></a><span></span>
                   </div>
                 </div>
 
@@ -740,7 +739,23 @@
             </div>
   
             <!-- END CREATE YOUR OWN PUCCIA... -->
+            <div class="menu-section filter-pizzas">
+              <div class="row isotope-container" data-aos="fade-up" data-aos-delay="200">
+                <h5></h5>
   
+                <div class="col-lg-6 menu-item isotope-item filter-pizzas">
+                  <div class="menu-content">
+                    <a href="">Home Delivery</a><span>€ 2.00</span>
+                  </div>
+                </div>
+  
+                <div class="col-lg-6 menu-item isotope-item filter-pizzas">
+                  <div class="menu-content">
+                    <a href="#">Table Service</a><span>€ 2.00</span>
+                  </div>
+                </div>
+                </div>
+                </div>
             <!-- BEGIN EVENING EVENTS  -->
             <div class="menu-section filter-pizzas">
               <div class="row isotope-container" data-aos="fade-up" data-aos-delay="200">
@@ -1061,7 +1076,108 @@
               </div>
   
               <!-- END Non-Alcoholic Drinks -->
-  
+              <div class="menu-section filter-drinks">
+                <h5>San Marzano Winery Wines <br><br>Red Wines</h5>
+                <div class="row isotope-container" data-aos="fade-up" data-aos-delay="200">
+              
+                  <div class="col-lg-6 menu-item isotope-item filter-drinks">
+                    <div class="menu-content">
+                      <a href="#">Pumo Primitivo</a><span>Glass € 5.00 / Bottle € 15.00</span>
+                    </div>
+                  </div>
+              
+                  <div class="col-lg-6 menu-item isotope-item filter-drinks">
+                    <div class="menu-content">
+                      <a href="#">Pumo Negroamaro</a><span>Glass € 5.00 / Bottle € 15.00</span>
+                    </div>
+                  </div>
+              
+                  <div class="col-lg-6 menu-item isotope-item filter-drinks">
+                    <div class="menu-content">
+                      <a href="#">Talo Primitivo Manduria</a><span>Glass € 5.00 / Bottle € 18.00</span>
+                    </div>
+                  </div>
+              
+                  <div class="col-lg-6 menu-item isotope-item filter-drinks">
+                    <div class="menu-content">
+                      <a href="#">Talo Negroamaro</a><span>Glass € 5.00 / Bottle € 16.00</span>
+                    </div>
+                  </div>
+              
+                  <div class="col-lg-6 menu-item isotope-item filter-drinks">
+                    <div class="menu-content">
+                      <a href="#">60 Anni</a><span>€ 45.00</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="menu-section filter-drinks">
+                <h5>White Wines</h5>
+                <div class="row isotope-container" data-aos="fade-up" data-aos-delay="200">
+              
+                  <div class="col-lg-6 menu-item isotope-item filter-drinks">
+                    <div class="menu-content">
+                      <a href="#">Libol White</a><span>Glass € 5.00 / Bottle € 15.00</span>
+                    </div>
+                  </div>
+              
+                  <div class="col-lg-6 menu-item isotope-item filter-drinks">
+                    <div class="menu-content">
+                      <a href="#">Pumo Chardonnay</a><span>Glass € 5.00 / Bottle € 15.00</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="menu-section filter-drinks">
+                <h5>Rosé Wines</h5>
+                <div class="row isotope-container" data-aos="fade-up" data-aos-delay="200">
+              
+                  <div class="col-lg-6 menu-item isotope-item filter-drinks">
+                    <div class="menu-content">
+                      <a href="#">Libol Rosé</a><span>Glass € 5.00 / Bottle € 15.00</span>
+                    </div>
+                  </div>
+              
+                  <div class="col-lg-6 menu-item isotope-item filter-drinks">
+                    <div class="menu-content">
+                      <a href="#">Tramari</a><span>Bottle € 20.00</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="menu-section filter-drinks">
+                <h5>Sweet Wine</h5>
+                <div class="row isotope-container" data-aos="fade-up" data-aos-delay="200">
+              
+                  <div class="col-lg-6 menu-item isotope-item filter-drinks">
+                    <div class="menu-content">
+                      <a href="#">Chicca Primitivo Docg Manduria</a><span>Bottle € 25.00</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="menu-section filter-drinks">
+                <h5>Fizzy Wines</h5>
+                <div class="row isotope-container" data-aos="fade-up" data-aos-delay="200">
+              
+                  <div class="col-lg-6 menu-item isotope-item filter-drinks">
+                    <div class="menu-content">
+                      <a href="#">Prosecco</a><span>Glass € 3.00 / Bottle € 15.00</span>
+                    </div>
+                  </div>
+              
+                  <div class="col-lg-6 menu-item isotope-item filter-drinks">
+                    <div class="menu-content">
+                      <a href="#">Sweet Sparkling Wine</a><span>Glass € 3.00 / Bottle € 15.00</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!--End Wines -->
               <!-- BEGIN Alcoholic Drinks  -->
               <div class="menu-section filter-drinks">
                 <div class="row isotope-container" data-aos="fade-up" data-aos-delay="200">
